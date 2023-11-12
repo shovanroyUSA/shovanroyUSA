@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as ... Software Quality Assuarnce Engineer at Picarro
 - 🌱 I’m currently learning ... NodeJs, Javascript, Cloud Security, AWS Cloud Solution Architect
-- 👯 I’m looking a ... Full Time Job with Visa Sponsorship to maintain status
+- 👯 I’m looking a ... Full Time, I dont need Visa Sponsorship as I have OPT EAD 
 - 🤔 I’m looking for help with ... AWS Cloud Solution Architect
 - 💬 Ask me about ... 
 - 📫 How to reach me: ... (510) 7502568
