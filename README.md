@@ -1,9 +1,4 @@
-### Hi there 👋
-
-
-**shovanroyUSA/shovanroyUSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there I am Shovan Roy,  Software quality assurance engineer specializing in the requirement analysis, test planning, test case development, test execution and defect management. Proficient in the application of Agile/Scrum methodologies👋
 
 - 🔭 I’m currently working as ... Freelancer
 - 🌱 I’m a recent graduate in Computer Science ... Master of Science in Computer Science
