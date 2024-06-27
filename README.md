@@ -7,5 +7,5 @@
 - 💬 Ask me about ...  
 - 📫 How to reach me: ... (510) 750-2568
 - 😄 Pronouns: ...He
-- ⚡ Fun fact: ... Althoug I have 18 years experience in Software Implementation, in the silicon valey 
+- ⚡ Fun fact: ... Althoug I have 18 years experience, I have been struggling in the Silicon Valley
 - [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pwpq2yirlkwif2cdker4hka2yu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31pwpq2yirlkwif2cdker4hka2yu&redirect=true)
