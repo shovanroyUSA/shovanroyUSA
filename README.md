@@ -1,11 +1,20 @@
-### Hi there I am Shovan Roy,  Software quality assurance engineer specializing in the requirement analysis, test planning, test case development, test execution and defect management. Proficient in the application of Agile/Scrum methodologies👋
+# Hi there! I'm Shovan Roy 👋
 
-- 🔭 I’m currently working as ... Freelancer
-- 🌱 I’m a recent graduate in Computer Science ... Master of Science in Computer Science
-- 👯 I’m looking a ... Full Time, I dont need Visa Sponsorship as I have OPT EAD 
-- 🤔 I’m looking for help with ... finding a full time position, I have OPT EAD
-- 💬 Ask me about ...  
-- 📫 How to reach me: ... (510) 750-2568
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ... Althoug I have 18 years experience, I have been struggling in the Silicon Valley
-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31pwpq2yirlkwif2cdker4hka2yu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31pwpq2yirlkwif2cdker4hka2yu&redirect=true)
+## About Me
+I am a **Validation Engineer** with a passion for ensuring the highest quality in system designs. My expertise lies in leveraging advanced verification methodologies to deliver robust solutions.
+
+## Interests
+- **SystemVerilog**: I love exploring its features and capabilities, especially in the context of hardware verification.
+- **Verification Methodologies**: I enjoy learning about and implementing various methodologies to enhance the validation process.
+
+## Skills
+- SystemVerilog
+- UVM (Universal Verification Methodology)
+- Functional Verification
+- Testbench Development
+  
+## Let's Connect!
+Feel free to reach out to me at shovan_bd@yahoo.com or check out my repositories for more of my work!
+
+Thanks for visiting my profile! 😊
+
