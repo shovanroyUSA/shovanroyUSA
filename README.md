@@ -1,7 +1,7 @@
-# Hi there! I'm Shovan Roy 👋
+# Hi there! I'm Shovan Roy. PhD candidate 👋
 
 ## About Me
-I am a **Validation Engineer** with a passion for ensuring the highest quality in system designs. My expertise lies in leveraging advanced verification methodologies to deliver robust solutions.
+Shovan Roy is a PhD candidate at Tennessee Tech University. His interest in Cybersecurity and Zero Trust.
 
 ## Interests
 - **SystemVerilog**: I love exploring its features and capabilities, especially in the context of hardware verification.
