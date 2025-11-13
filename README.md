@@ -1,7 +1,7 @@
-# Hi there! I'm Shovan Roy. PhD candidate 👋
+# Hi there! I'm Shovan Roy. PhD Scholar 👋
 
 ## About Me
-PhD candidate at Tennessee Tech University. My interest in Cybersecurity and Zero Trust.
+PhD student at Tennessee Tech University. My interest in Cybersecurity and Zero Trust.
 
 ## Interests
 - **Machine Learning**: I love exploring its features and capabilities, especially in the context of Cybersecurity.
