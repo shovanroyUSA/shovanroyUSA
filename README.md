@@ -31,15 +31,23 @@ I am a PhD Researcher at **Tennessee Tech University (CEROC)** specializing in t
 
 ---
 
-## 📊 My GitHub Journey
-![Shovan's Stats](https://github-readme-stats.vercel.app/api?username=shovanroyUSA&show_icons=true&theme=tokyonight)
+## 📊 Performance & Activity
+
+### GitHub Stats
+![Shovan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shovanroyUSA&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shovanroyUSA&layout=compact&theme=tokyonight)
+
+### GitLab Activity
+[![GitLab Profile](https://img.shields.io/badge/GitLab-Profile-orange?style=for-the-badge&logo=gitlab)](https://gitlab.com/shovanroyUSA)
+
+*Note: Much of my core research and IoBT testbed orchestration is managed via GitLab.*
 
 ---
 
 ## 📫 Let's Connect!
 - 📧 **Email**: [sroy42@tntech.edu](mailto:sroy42@tntech.edu)
 - 💼 **LinkedIn**: [shovanroyusa](https://www.linkedin.com/in/shovanroyusa/)
+- 💼 **Gitlab**: [shovanroyusa](https://gitlab.com/shovanroyUSA)
 - 🏛 **Affiliation**: Tennessee Tech University - Cybersecurity Education, Research and Outreach Center (CEROC)
 
 *"Technology gets me out of bed; collaboration keeps me going."*
