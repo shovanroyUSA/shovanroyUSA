@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Shovan Roy | PhD Scholar @ TTU
 
-I am a PhD Researcher at **Tennessee Tech University (CEROC)** specializing in the intersection of **Agentic AI** and **Zero Trust Architecture (ZTA)**. My work focuses on building secure, autonomous, and privacy-preserving systems for the **Internet of Battlefield Things (IoBT)**.
+I am a PhD Researcher at **Tennessee Tech University (TTU)** specializing in the intersection of **Agentic AI** and **Zero Trust Architecture (ZTA)**. My work focuses on building secure, autonomous, and privacy-preserving systems for the **Internet of Battlefield Things (IoBT)**.
 
 ---
 
