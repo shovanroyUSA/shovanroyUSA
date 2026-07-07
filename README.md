@@ -41,7 +41,7 @@ I am a PhD Researcher at **Tennessee Tech University (TTU)** specializing in the
 
 ## 📫 Let's Connect!
 - 📧 **Email**: [sroy42@tntech.edu](mailto:sroy42@tntech.edu), [shovan_bd@yahoo.com](mailto:shovan_bd@yahoo.com)
-- 💼 **LinkedIn**: [shovanroyusa](https://www.linkedin.com/in/shovanroyusa/)
+- 💼 **LinkedIn**: [engr-shovan-roy](https://www.linkedin.com/in/engr-shovan-roy/)
 - 💼 **Gitlab**: [shovanroyusa](https://gitlab.com/shovanroyUSA)
 - 🏛 **Affiliation**: Tennessee Tech University - Cybersecurity Education, Research and Outreach Center (CEROC)
 
